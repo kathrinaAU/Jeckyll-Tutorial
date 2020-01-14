@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Mi curriculum vitae'
-# description:	       ''
+description:	       'Conociendo Jekyll'
 author:              'Kathrina Arrocha Umpiérrez'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
