@@ -2,9 +2,9 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Kathrina Arrocha Umpiérrez
-email: kathrina96@gmail.com
-description: "Estudiante en último curso de ingeniería informática en la universidad de la Laguna."
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
@@ -14,19 +14,51 @@ people:
   position: Lead Designer
   social:
     - title: twitter
-      url: https://twitter.com/ArrochaKathrina?lang=es
+      url: #
     - title: facebook
-      url: https://www.facebook.com/kathrina.arrochaumpierrez
-    - title: github
-      url: https://github.com/kathrinaAU
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
     - title: linkedin
-      url: https://www.linkedin.com/in/kathrina-arrocha-umpi%C3%A9rrez-60868a189/
-    - title: infojobs
-      url: https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=2374575585142427313
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Arrecife, Lanzarote 35500
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
